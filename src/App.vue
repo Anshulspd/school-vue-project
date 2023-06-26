@@ -1,11 +1,16 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
-  <router-view/>
+  
+  <UserCheck/>
 </template>
-
+<script>
+import UserCheck from './components/UserCheck.vue';
+export default {
+components: {
+  UserCheck}
+    
+    
+  }
+</script>
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;

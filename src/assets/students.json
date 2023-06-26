@@ -1,0 +1,105 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "Aarav Verma",
+        "age": 18,
+        "class": "12th Grade",
+        "courseRegistered": "Mathematics",
+        "studentId": "STU001",
+        "username": "student1",
+        "password": "student123"
+      },
+      {
+        "id": 2,
+        "name": "Riya Patel",
+        "age": 17,
+        "class": "11th Grade",
+        "courseRegistered": "Physics",
+        "studentId": "STU002",
+        "username": "student2",
+        "password": "student123"
+      },
+      {
+        "id": 3,
+        "name": "Vikram Singh",
+        "age": 16,
+        "class": "10th Grade",
+        "courseRegistered": "Chemistry",
+        "studentId": "STU003",
+        "username": "student3",
+        "password": "student123"
+      },
+      {
+        "id": 4,
+        "name": "Sanya Gupta",
+        "age": 17,
+        "class": "11th Grade",
+        "courseRegistered": "Biology",
+        "studentId": "STU004",
+        "username": "student4",
+        "password": "student123"
+      },
+      {
+        "id": 5,
+        "name": "Arjun Sharma",
+        "age": 18,
+        "class": "12th Grade",
+        "courseRegistered": "Computer Science",
+        "studentId": "STU005",
+        "username": "student5",
+        "password": "student123"
+      },
+      {
+        "id": 6,
+        "name": "Kirti Kapoor",
+        "age": 16,
+        "class": "10th Grade",
+        "courseRegistered": "History",
+        "studentId": "STU006",
+        "username": "student6",
+        "password": "student123"
+      },
+      {
+        "id": 7,
+        "name": "Rahul Kumar",
+        "age": 17,
+        "class": "11th Grade",
+        "courseRegistered": "Geography",
+        "studentId": "STU007",
+        "username": "student7",
+        "password": "student123"
+      },
+      {
+        "id": 8,
+        "name": "Priya Singhania",
+        "age": 18,
+        "class": "12th Grade",
+        "courseRegistered": "Economics",
+        "studentId": "STU008",
+        "username": "student8",
+        "password": "student123"
+      },
+      {
+        "id": 9,
+        "name": "Abhinav Sharma",
+        "age": 17,
+        "class": "11th Grade",
+        "courseRegistered": "English",
+        "studentId": "STU009",
+        "username": "student9",
+        "password": "student123"
+      },
+      {
+        "id": 10,
+        "name": "Ritu Kapoor",
+        "age": 16,
+        "class": "10th Grade",
+        "courseRegistered": "Art",
+        "studentId": "STU010",
+        "username": "student10",
+        "password": "student123"
+      }
+    ]
+  }
+  

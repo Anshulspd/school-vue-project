@@ -1,0 +1,96 @@
+{
+    "teachers": [
+      {
+        "id": 1,
+        "name": "Anita Gupta",
+        "age": 35,
+        "subject": "Mathematics",
+        "teacherId": "TEA001",
+        "username": "teacher1",
+        "password": "teacher123"
+      },
+      {
+        "id": 2,
+        "name": "Rajesh Sharma",
+        "age": 42,
+        "subject": "Science",
+        "teacherId": "TEA002",
+        "username": "teacher2",
+        "password": "teacher123"
+      },
+      {
+        "id": 3,
+        "name": "Pooja Verma",
+        "age": 38,
+        "subject": "English",
+        "teacherId": "TEA003",
+        "username": "teacher3",
+        "password": "teacher123"
+      },
+      {
+        "id": 4,
+        "name": "Manish Singhania",
+        "age": 40,
+        "subject": "History",
+        "teacherId": "TEA004",
+        "username": "teacher4",
+        "password": "teacher123"
+      },
+      {
+        "id": 5,
+        "name": "Meera Kapoor",
+        "age": 37,
+        "subject": "Geography",
+        "teacherId": "TEA005",
+        "username": "teacher5",
+        "password": "teacher123"
+      },
+      {
+        "id": 6,
+        "name": "Ajay Kumar",
+        "age": 43,
+        "subject": "Economics",
+        "teacherId": "TEA006",
+        "username": "teacher6",
+        "password": "teacher123"
+      },
+      {
+        "id": 7,
+        "name": "Neha Sharma",
+        "age": 39,
+        "subject": "Physics",
+        "teacherId": "TEA007",
+        "username": "teacher7",
+        "password": "teacher123"
+      },
+      {
+        "id": 8,
+        "name": "Kunal Patel",
+        "age": 41,
+        "subject": "Chemistry",
+        "teacherId": "TEA008",
+        "username": "teacher8",
+        "password": "teacher123"
+      },
+      {
+        "id": 9,
+        "name": "Smita Gupta",
+        "age": 36,
+        "subject": "Biology",
+        "teacherId": "TEA009",
+        "username": "teacher9",
+        "password": "teacher123"
+      },
+      {
+        "id": 10,
+        "name": "Amit Sharma",
+        "age": 38,
+        "subject": "Computer Science",
+        "teacherId": "TEA010",
+        "username": "teacher10",
+        "password": "teacher123"
+      }
+    ]
+  }
+  
+  
