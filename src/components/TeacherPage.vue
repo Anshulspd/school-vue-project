@@ -15,12 +15,12 @@
   
   <script>
   export default {
-    // Add your logic here
+   
   };
   </script>
   
   <style scoped>
-  /* Add your styles here */
+  
   nav {
     margin-bottom: 20px;
   }

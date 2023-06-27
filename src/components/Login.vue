@@ -20,10 +20,10 @@ export default {
   },
   methods: {
     login() {
-      const teacher = this.$store.state.teachers.find(teacher => teacher.username === this.username);
+      const user = this.$store.state.teachers.find(teacher => teacher.username === this.username);
       const student = this.$store.state.students.find(student => student.username === this.username);
 
-      if (teacher && teacher.password === this.password) {
+      if (user && user.password === this.password) {
         const currentUser = this.$store.getters.getTeacherByUsername(this.username);
         this.$store.commit('setCurrentUser', currentUser);
         

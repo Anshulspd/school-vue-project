@@ -1,4 +1,7 @@
 <template>
+
+  <!-- Lifecycle Hooks -->
+  <Parent />
   <div class="student-home">
     <div class="container">
       <h1>Welcome, {{ student.name }}</h1>
@@ -9,6 +12,7 @@
       
       
     </div>
+     
     <div class="input-field">
       <input type="text" v-model="newCourse" placeholder="New Course">
 
@@ -25,7 +29,12 @@
 </template>
 
 <script>
+import Parent from './Parent.vue'
+
 export default {
+  components: {
+    
+    Parent,},
   computed: {
     currentUser() {
       return this.$store.state.currentUser;

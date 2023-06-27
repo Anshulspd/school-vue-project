@@ -13,10 +13,11 @@
                 <li><router-link to="/student/learn">Learn</router-link></li>
                 <li><router-link to="/student/practice">Practice</router-link></li>
                 <li> <router-link to="/student/test">Test</router-link></li>
+                
             </ul>
             </div>
       </nav>
-      
+      <button class= "logout" @click="logout"><a href="/UserCheck">Logout</a></button>
   
       <router-view></router-view>
     </div>
@@ -25,12 +26,17 @@
   
   <script>
   export default {
-    // Add your logic here
+    methods: {
+    logout() {
+      
+      this.$router.push('/login');
+    }
+  }
   };
   </script>
   
   <style scoped>
-  /* Add your styles here */
+  
   nav {
     margin-bottom: 20px;
   }
@@ -41,7 +47,19 @@
     color: #333;
     font-weight: bold;
   }
+  .logout {
+    display: flex;
+  justify-content: flex-end;
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #c5dbe2;
+    color: #161515;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
   </style>
+  
   
 
   

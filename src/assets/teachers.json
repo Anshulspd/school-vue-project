@@ -2,7 +2,7 @@
     "teachers": [
       {
         "id": 1,
-        "name": "Anita Gupta",
+        "name": "Anita",
         "age": 35,
         "subject": "Mathematics",
         "teacherId": "TEA001",
@@ -11,7 +11,7 @@
       },
       {
         "id": 2,
-        "name": "Rajesh Sharma",
+        "name": "Rajesh",
         "age": 42,
         "subject": "Science",
         "teacherId": "TEA002",
@@ -20,7 +20,7 @@
       },
       {
         "id": 3,
-        "name": "Pooja Verma",
+        "name": "Pooja",
         "age": 38,
         "subject": "English",
         "teacherId": "TEA003",
@@ -29,7 +29,7 @@
       },
       {
         "id": 4,
-        "name": "Manish Singhania",
+        "name": "Manish",
         "age": 40,
         "subject": "History",
         "teacherId": "TEA004",
@@ -38,7 +38,7 @@
       },
       {
         "id": 5,
-        "name": "Meera Kapoor",
+        "name": "Meera",
         "age": 37,
         "subject": "Geography",
         "teacherId": "TEA005",
@@ -47,7 +47,7 @@
       },
       {
         "id": 6,
-        "name": "Ajay Kumar",
+        "name": "Ajay",
         "age": 43,
         "subject": "Economics",
         "teacherId": "TEA006",
@@ -56,7 +56,7 @@
       },
       {
         "id": 7,
-        "name": "Neha Sharma",
+        "name": "Neha",
         "age": 39,
         "subject": "Physics",
         "teacherId": "TEA007",
@@ -65,7 +65,7 @@
       },
       {
         "id": 8,
-        "name": "Kunal Patel",
+        "name": "Kunal",
         "age": 41,
         "subject": "Chemistry",
         "teacherId": "TEA008",
@@ -74,7 +74,7 @@
       },
       {
         "id": 9,
-        "name": "Smita Gupta",
+        "name": "Smita",
         "age": 36,
         "subject": "Biology",
         "teacherId": "TEA009",
@@ -83,7 +83,7 @@
       },
       {
         "id": 10,
-        "name": "Amit Sharma",
+        "name": "Amit",
         "age": 38,
         "subject": "Computer Science",
         "teacherId": "TEA010",

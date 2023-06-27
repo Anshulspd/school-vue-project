@@ -2,7 +2,7 @@
     "students": [
       {
         "id": 1,
-        "name": "Aarav Verma",
+        "name": "Aarav ",
         "age": 18,
         "class": "12th Grade",
         "courseRegistered": "Mathematics",
@@ -12,7 +12,7 @@
       },
       {
         "id": 2,
-        "name": "Riya Patel",
+        "name": "Riya",
         "age": 17,
         "class": "11th Grade",
         "courseRegistered": "Physics",
@@ -22,7 +22,7 @@
       },
       {
         "id": 3,
-        "name": "Vikram Singh",
+        "name": "Vikram",
         "age": 16,
         "class": "10th Grade",
         "courseRegistered": "Chemistry",
@@ -32,7 +32,7 @@
       },
       {
         "id": 4,
-        "name": "Sanya Gupta",
+        "name": "Sanya",
         "age": 17,
         "class": "11th Grade",
         "courseRegistered": "Biology",
@@ -42,7 +42,7 @@
       },
       {
         "id": 5,
-        "name": "Arjun Sharma",
+        "name": "Arjun",
         "age": 18,
         "class": "12th Grade",
         "courseRegistered": "Computer Science",
@@ -52,7 +52,7 @@
       },
       {
         "id": 6,
-        "name": "Kirti Kapoor",
+        "name": "Kirti",
         "age": 16,
         "class": "10th Grade",
         "courseRegistered": "History",
@@ -62,7 +62,7 @@
       },
       {
         "id": 7,
-        "name": "Rahul Kumar",
+        "name": "Rahul",
         "age": 17,
         "class": "11th Grade",
         "courseRegistered": "Geography",
@@ -72,7 +72,7 @@
       },
       {
         "id": 8,
-        "name": "Priya Singhania",
+        "name": "Priya",
         "age": 18,
         "class": "12th Grade",
         "courseRegistered": "Economics",
@@ -82,7 +82,7 @@
       },
       {
         "id": 9,
-        "name": "Abhinav Sharma",
+        "name": "Abhinav",
         "age": 17,
         "class": "11th Grade",
         "courseRegistered": "English",
@@ -92,7 +92,7 @@
       },
       {
         "id": 10,
-        "name": "Ritu Kapoor",
+        "name": "Ritu",
         "age": 16,
         "class": "10th Grade",
         "courseRegistered": "Art",

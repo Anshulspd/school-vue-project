@@ -1,7 +1,7 @@
 <template>
     <div class="container">
       <h1>Welcome, {{ currentUser.name }}</h1>
-      <div v-if="currentUser">
+      
         <h2>Your Details:</h2>
         <div class="card">
           <div class="card-content">
@@ -13,16 +13,20 @@
           </div>
         </div>
       </div>
-    </div>
+   
   </template>
   
   <script>
   export default {
     computed: {
       currentUser() {
-        return this.$store.getters.getCurrentUser;
-      }
-    }
+      return this.$store.state.currentUser;
+    },
+    // teacher() {
+    //   const username = this.currentUser.username;
+    //   return this.$store.getters.getteacherByUsername(username);
+    // }
+  }
   };
   </script>
   
